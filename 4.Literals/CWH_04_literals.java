@@ -10,11 +10,9 @@ public class CWH_04_literals {
         float f1 = 5.6f;
         double d1 = 4.66;
         boolean a = true;
-        
-        System.out.print(age);
-        
         String str = "Harry";
         
+        System.out.print(age);
         System.out.println(str);
     }
 }
