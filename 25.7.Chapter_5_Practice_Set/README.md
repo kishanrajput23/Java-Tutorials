@@ -32,3 +32,7 @@
     At least twice
     At most once
 **Question 11:** Repeat problem 2 using for loop.
+
+**Handwritten Notes: [Click to Download](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-25/Chapter_5__Practice_Set.pdf)**
+
+**Ultimate Java Cheatsheet: [Click To Download](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-25/UltimateJavaCheatSheet.pdf)**
