@@ -13,3 +13,7 @@
 **Question 6.** Write a Java program to find the maximum and minimum element in an array.
 
 **Question 7.** Write a Java program to find whether an array is sorted or not.
+
+**Handwritten Notes: [Click to Download](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-29/Chapter_6_Practice_Set.pdf)**
+
+**Ultimate Java Cheatsheet: [Click To Download](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-29/UltimateJavaCheatSheet.pdf)**
