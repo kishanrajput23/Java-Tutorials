@@ -3,10 +3,10 @@
 1. Write a Java method to print the multiplication table of a number n.
 2. Write a program using functions to print the following pattern:
 ```
-   *
-  * *
- * * *
-* * * *
+*
+**
+***
+****
 ```
 3. Write a recursive function to calculate the sum of first n natural numbers.
 4. Write a function to print the following pattern:
