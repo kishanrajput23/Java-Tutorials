@@ -12,3 +12,7 @@
 4. Create a class Rectangle & problem 3.
 5. Create a class TommyVecetti for Rockstar Games capable of hitting (print hitting…), running, firing, etc.
 6. Repeat problem 4 for a circle.
+
+**Handwritten Notes: [Click to Download](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-39/Ch8_PS.pdf)**
+
+**Ultimate Java Cheatsheet: [Click To Download](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-39/UltimateJavaCheatSheet.pdf)**
