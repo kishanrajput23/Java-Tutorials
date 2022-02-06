@@ -69,7 +69,7 @@ class Employee {
     }
 }
 
-public class CWH {
+public class CWH1 {
     public static void main(String[] args) {
         Employee emp1 = new Employee();
 
